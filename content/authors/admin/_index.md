@@ -18,7 +18,7 @@ interests:
 - Natural Resource Economics
 - Applied Econometrics
 organizations:
-- name: Applied Economics Department, Oregon State University
+- name: Department of Applied Economics, Oregon State University
   url: https://appliedecon.oregonstate.edu/
 role: PhD Candidate
 social:
