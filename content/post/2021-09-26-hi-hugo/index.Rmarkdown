@@ -1,5 +1,5 @@
 ---
-title: Hi Hugo
+title: about This Website
 author: ''
 date: '2021-09-26'
 slug: hi-hugo
@@ -16,4 +16,5 @@ image:
   preview_only: no
 projects: []
 ---
-This is a new website
+I followed [this link](https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/#welcome) to make this website. 
+
