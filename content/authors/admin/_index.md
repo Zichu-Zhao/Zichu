@@ -30,20 +30,14 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/theZichuZhao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/Zichu-Zhao
 superuser: true
 title: Zichu Zhao
 ---
 
 I am a PhD candidate in Applied Economics department at Oregon State University. My research interests are environmental and natural resource economics, and applied econometrics. I am also an R enthusiast.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
