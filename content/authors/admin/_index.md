@@ -1,17 +1,16 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include environmental and natural resource economics, applied econometrics.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Applied Economics
+    institution: Oregon State University
+    year: 2023 (Expected)
+  - course: MSc in Agriculture, Environmental, and Development Economics
+    institution: the Ohio State University
+    year: 2017
+  - course: BSc in Economics
+    institution: Hunan University
+    year: 2015
 email: ""
 highlight_name: true
 interests:
