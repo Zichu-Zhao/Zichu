@@ -14,13 +14,13 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Environmental Economics
+- Natural Resource Economics
+- Applied Econometrics
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Applied Economics Department, Oregon State University
+  url: https://appliedecon.oregonstate.edu/
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,4 +46,4 @@ title: Zichu Zhao
 
 I am a PhD candidate in Applied Economics department at Oregon State University. My research interests are environmental and natural resource economics, and applied econometrics. I am also an R enthusiast.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
