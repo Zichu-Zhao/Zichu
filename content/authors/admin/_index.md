@@ -1,5 +1,5 @@
 ---
-bio: My research interests include environmental and natural resource economics, applied econometrics.
+bio: My research interests include environmental and natural resource economics,  and applied econometrics.
 education:
   courses:
   - course: PhD in Applied Economics
