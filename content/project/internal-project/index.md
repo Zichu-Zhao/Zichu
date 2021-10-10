@@ -3,7 +3,7 @@ date: "2016-04-27T00:00:00Z"
 image:
   #caption: Photo by rawpixel on Unsplash
   #focal_point: Smart
-#slides: example
+
 summary: the case of Pacific Salmon recovery.
 tags:
 - Environmental Groups
