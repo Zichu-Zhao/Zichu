@@ -1,11 +1,12 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+#external_link: http://example.org
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Tree Yield Function by Management in North Carolina
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Land use change in Southern United States.
 tags:
-- Demo
-title: External Project
+- Land Use
+title: Land Use in the Southern United States
 ---
+In this project, we look at the land use change in the Southern United States. 
