@@ -1,6 +1,6 @@
 ---
 title: "Running Multinomial Logit in R with a Tricky Dataset"
-author: "R package build"
+author: "Zichu Zhao"
 date: '2021-12-18'
 output: pdf_document
 featured: no
