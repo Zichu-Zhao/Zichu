@@ -1,5 +1,5 @@
 ---
-bio: My research interests include environmental and natural resource economics,  and applied econometrics.
+bio: My research interests include environmental and natural resource economics, applied econometrics.
 education:
   courses:
   - course: PhD in Applied Economics
@@ -34,6 +34,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Zichu-Zhao
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/zichu-zhao-4a5441222/
 superuser: true
 title: Zichu Zhao
 ---
