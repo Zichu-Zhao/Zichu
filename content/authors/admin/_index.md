@@ -41,6 +41,6 @@ superuser: true
 title: Zichu Zhao
 ---
 
-I am a PhD candidate in Applied Economics department at Oregon State University. My research interests are environmental and natural resource economics, and applied econometrics. I am also an R enthusiast.
+I am an assistant professor in Economics department at Le Moyne College. My research interests are environmental and natural resource economics, and applied econometrics. I am also an R enthusiast.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. Download my {{< staticref "uploads/ZichuZhao_JMP.pdf" "newtab" >}}JMP{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. 
