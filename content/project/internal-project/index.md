@@ -13,4 +13,4 @@ Abstract: The effectiveness and efficiency of environmental NGOs on recovering e
 
 This paper was presented on 2021 Applied Economics Working Group, 2021 AERE Summer Conference, 2022 Salmon Economics Workshop, and 2022 WEAI Conference. 
 
-Download the {{< staticref "uploads/salmonngo.pdf" "newtab" >}}lastest version{{< /staticref >}}
+Download the {{< staticref "uploads/salmonngo.pdf" "newtab" >}}working paper{{< /staticref >}}.
