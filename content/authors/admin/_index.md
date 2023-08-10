@@ -18,9 +18,9 @@ interests:
 - Natural Resource Economics
 - Applied Econometrics
 organizations:
-- name: Department of Applied Economics, Oregon State University
-  url: https://appliedecon.oregonstate.edu/
-role: PhD Candidate
+- name: Department of Economics, Le Moyne College
+  url: https://lemoyne.edu/Academics/Colleges-Schools-Centers/College-of-Arts-Sciences/Majors-Minors/Economics
+role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
