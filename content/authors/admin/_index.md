@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Applied Economics
     institution: Oregon State University
-    year: 2023 (Expected)
+    year: 2023 
   - course: MSc in Agriculture, Environmental, and Development Economics
     institution: the Ohio State University
     year: 2017
