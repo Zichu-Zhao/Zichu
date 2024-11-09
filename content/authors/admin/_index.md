@@ -22,18 +22,13 @@ organizations:
   url: https://lemoyne.edu/Academics/Colleges-Schools-Centers/College-of-Arts-Sciences/Majors-Minors/Economics
 role: Assistant Professor
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
+
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/theZichuZhao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Zichu-Zhao
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/zichu-zhao-4a5441222/
