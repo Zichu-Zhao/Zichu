@@ -25,10 +25,7 @@ social:
 
 - display:
     header: false
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/theZichuZhao
+
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/zichu-zhao-4a5441222/
