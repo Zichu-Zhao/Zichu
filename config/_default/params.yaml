@@ -58,7 +58,7 @@ twitter: ''
 # Site header
 
 main_menu:
-  enable: true
+  enable: false
   align: l
   show_logo: true
   show_language: false
